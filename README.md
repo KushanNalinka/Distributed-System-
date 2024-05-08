@@ -1,2 +1,2 @@
-# Distributed-System-
+# Distributed-System
 A Course Management System
